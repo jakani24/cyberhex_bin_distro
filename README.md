@@ -1,4 +1,4 @@
-# Cyberhex bon repo
+# Cyberhex bin repo
 
 This repo contains all the binarys for Cyberhex. The installer downloads them from here.
 
